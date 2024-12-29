@@ -16,8 +16,7 @@ Apache est un serveur web qui permet d'afficher des sites internet.
    ```bash
    systemctl start apache2
   
-### 3. Envoyer du trafic au serveur
-Le serveur fonctionne maintenant. Nous allons envoyer des demandes (trafic) à ce serveur.
+### 3. **Génèrer du trafic au serveur**
 
 Pour envoyer du trafic :
 1. Ouvre ton navigateur et tape http://localhost. C'est l'adresse de ton serveur.
